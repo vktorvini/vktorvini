@@ -6,7 +6,7 @@
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://vktorvini.glitch.me/)](https://vktorvini.glitch.me/)
 
 
-##:computer: Atualmente estou estudando sobre
+## :computer: Atualmente estou estudando sobre
 - :chart_with_upwards_trend:  Ciência de dados
 
 ## 🚀 **Linguagens e Ferramentas:**
