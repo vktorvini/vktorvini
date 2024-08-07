@@ -4,9 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=vktorvini@gmail.com)](vktorvini@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://vktorvini.glitch.me/)](https://vktorvini.glitch.me/)
+
+
 ##:computer: Atualmente estou estudando sobre
 - :chart_with_upwards_trend:  Ciência de dados
-  
+
 ## 🚀 **Linguagens e Ferramentas:**
  #### 💻 Uso diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -28,10 +30,10 @@
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
   
  #### 🌱 Estou aprendendo:
-HTML
-CSS
-Google ADS
-Meta
+- HTML
+- CSS
+- Google ADS
+- Meta
 
 
 # Autores
