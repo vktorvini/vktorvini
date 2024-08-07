@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 # Autores
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/132679374?v=4" width=115><br><sub>Victor Vinicius Pereira Oliveira</sub>](https://github.com/vktorvini) |  
-| :---: | :---: | :---: |
+| :---: | 
