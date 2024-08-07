@@ -1,5 +1,5 @@
 ## Salve 👋
-##- :computer: Atualmente estou estudando sobre
+##:computer: Atualmente estou estudando sobre
 - :chart_with_upwards_trend:  Ciência de dados
   
 ## 🚀 **Linguagens e Ferramentas:**
