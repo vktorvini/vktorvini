@@ -1,4 +1,9 @@
 ## Salve 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vktorvini//)](https://www.linkedin.com/in/vktorvini/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@vktorvini)](https://medium.com/@vktorvini)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=vktorvini@gmail.com)](vktorvini@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
+[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://vktorvini.glitch.me/)](https://vktorvini.glitch.me/)
 ##:computer: Atualmente estou estudando sobre
 - :chart_with_upwards_trend:  Ciência de dados
   
